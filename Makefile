@@ -8,7 +8,7 @@ CATEGORIES=	devel
 MAINTAINER=	SlavaMikerov@gmail.com
 COMMENT=	C++ Format is an open-source formatting library for C++
 
-LICENSE=	BSD
+LICENSE=	BSD2CLAUSE
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	cppformat
