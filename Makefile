@@ -2,7 +2,7 @@
 # $FreeBSD$
 
 PORTNAME=	libcppformat
-PORTVERSION=	2.0.0
+PORTVERSION=	2.1.0
 CATEGORIES=	devel
 
 MAINTAINER=	SlavaMikerov@gmail.com
@@ -13,7 +13,7 @@ LICENSE=	BSD2CLAUSE
 USE_GITHUB=	yes
 GH_ACCOUNT=	cppformat
 GH_PROJECT=	cppformat
-GH_TAGNAME=	5324d38
+GH_TAGNAME=	 2.1.0
 
 USES=		cmake:outsource compiler:c++11-lib
 CMAKE_SOURCE_PATH=	${WRKSRC}
